@@ -67,7 +67,7 @@ const Index = () => {
                 Сертифицированное качество и гарантия безопасности.
               </p>
               <div className="flex gap-4">
-                <Button size="lg" className="bg-secondary hover:bg-secondary/90 text-secondary-foreground">
+                <Button size="lg" className="bg-secondary hover:bg-secondary/90 text-secondary-foreground" onClick={() => document.getElementById('catalog')?.scrollIntoView({ behavior: 'smooth' })}>
                   <Icon name="ShoppingCart" size={20} className="mr-2" />
                   Посмотреть каталог
                 </Button>
