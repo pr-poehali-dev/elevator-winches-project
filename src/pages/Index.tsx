@@ -296,7 +296,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Icon name="Cog" size={24} className="text-secondary" />
-              <span className="font-bold">ЛифтТех</span>
+              <span className="font-bold">Веллифт</span>
             </div>
             <p className="text-primary-foreground/80">© 2024 ЛифтТех. Все права защищены.</p>
           </div>
