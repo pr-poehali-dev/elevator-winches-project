@@ -284,7 +284,7 @@ const Index = () => {
               </CardHeader>
               <CardContent>
                 <p className="font-bold">г. Новосибирск</p>
-                <p className="text-muted-foreground">ул. Промышленная, 15к2</p>
+                <p className="text-muted-foreground">Нарвская ул, д. 1а</p>
                 <p className="text-muted-foreground">м. Автозаводская</p>
               </CardContent>
             </Card>
