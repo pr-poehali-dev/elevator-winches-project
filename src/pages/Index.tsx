@@ -71,10 +71,7 @@ const Index = () => {
                   <Icon name="ShoppingCart" size={20} className="mr-2" />
                   Посмотреть каталог
                 </Button>
-                <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
-                  <Icon name="Phone" size={20} className="mr-2" />
-                  Консультация
-                </Button>
+                <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">+7 (936) 313-18-16</Button>
               </div>
             </div>
             <div className="lg:text-right animate-scale-in">
