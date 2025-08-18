@@ -285,7 +285,7 @@ const Index = () => {
               <CardContent>
                 <p className="font-bold">г. Москва</p>
                 <p className="text-muted-foreground">Нарвская ул, д. 1а</p>
-                <p className="text-muted-foreground">м. Автозаводская</p>
+                <p className="text-muted-foreground">м. Балтийская</p>
               </CardContent>
             </Card>
           </div>
