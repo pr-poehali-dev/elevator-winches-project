@@ -153,10 +153,7 @@ const Index = () => {
                         ))}
                       </ul>
                     </div>
-                    <Button className="w-full bg-secondary hover:bg-secondary/90">
-                      <Icon name="ShoppingCart" size={16} className="mr-2" />
-                      Заказать
-                    </Button>
+                    <Button className="w-full bg-secondary hover:bg-secondary/90">+7 (936) 313-18-16</Button>
                   </div>
                 </CardContent>
               </Card>
