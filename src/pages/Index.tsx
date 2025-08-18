@@ -167,7 +167,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
-              <h2 className="text-4xl font-bold">О компании ЛифтТех</h2>
+              <h2 className="text-4xl font-bold">О компании Веллифт</h2>
               <p className="text-lg text-muted-foreground">
                 Более 15 лет мы специализируемся на производстве и поставке промышленного 
                 подъемного оборудования. Наши лебедки используются на крупнейших 
