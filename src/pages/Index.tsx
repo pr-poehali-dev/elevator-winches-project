@@ -298,7 +298,7 @@ const Index = () => {
               <Icon name="Cog" size={24} className="text-secondary" />
               <span className="font-bold">Веллифт</span>
             </div>
-            <p className="text-primary-foreground/80">© 2024 ЛифтТех. Все права защищены.</p>
+            <p className="text-primary-foreground/80">© 2025 Веллифт. ОГРН 1207700001959. Все права защищены.</p>
           </div>
         </div>
       </footer>
