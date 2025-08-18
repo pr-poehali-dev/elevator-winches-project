@@ -291,10 +291,7 @@ const Index = () => {
           </div>
           
           <div className="mt-12 text-center">
-            <Button size="lg" className="bg-secondary hover:bg-secondary/90">
-              <Icon name="MessageCircle" size={20} className="mr-2" />
-              Получить консультацию
-            </Button>
+            <Button size="lg" className="bg-secondary hover:bg-secondary/90">+7 (936) 313-18-16</Button>
           </div>
         </div>
       </section>
