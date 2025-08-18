@@ -270,7 +270,7 @@ const Index = () => {
                 <CardTitle>Email</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-xl font-bold text-secondary">info@lifttech.ru</p>
+                <p className="text-xl font-bold text-secondary">balmoshnovaakchach96@list.ru</p>
                 <p className="text-muted-foreground">Ответим в течение часа</p>
               </CardContent>
             </Card>
